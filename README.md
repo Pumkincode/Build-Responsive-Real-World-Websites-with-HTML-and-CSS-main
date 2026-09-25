@@ -1,1 +1,1 @@
-This repository contains the “Build Responsive Real-World Websites with HTML and CSS” course by Jonas Schmedtmannhttps://github.com/Pumkincode/Build-Responsive-Real-World-Websites-with-HTML-and-CSS-main/tree/main
+This repository contains the “Build Responsive Real-World Websites with HTML and CSS” course by Jonas Schmedtmann.
